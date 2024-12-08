@@ -1,5 +1,4 @@
 # python_map_earthquake
-Free online course Geosoftware December 2024
 
 # to start code
 1. python -m venv venv (for create new virtuan env)
